@@ -1,5 +1,7 @@
 In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
 
+### project view URL https://MkumarJobbyApp.ccbp.tech
+
 ### Refer to videos below:
 
 <div style="text-align: center;">
@@ -182,8 +184,8 @@ The app must have the following functionalities
 
 ```json
 {
-  "username": "rahul",
-  "password": "rahul@2021"
+  "username": "kumar",
+  "password": "kumar@2025"
 }
 ```
 
